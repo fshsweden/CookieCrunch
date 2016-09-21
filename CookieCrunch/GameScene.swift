@@ -363,7 +363,7 @@ class GameScene: SKScene {
         swipeFromRow = nil
     }
     
-    override func touchesCancelled(touches: Set<UITouch>?, withEvent event: UIEvent?) {
-        touchesEnded(touches!, withEvent: event)
+    override func touchesCancelled(touches: Set<UITouch>, withEvent event: UIEvent?) {
+        touchesEnded(touches, withEvent: event)
     }
 }
