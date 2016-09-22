@@ -12,7 +12,7 @@ https://www.raywenderlich.com/132117/make-game-like-candy-crush-spritekit-swift-
 https://www.raywenderlich.com/125313/make-game-like-candy-crush-spritekit-swift-part-4
 
 
-The original was not up-to-date with Xcode 7.3, Swift 2.2, and iOS 9.3. I've
+The original was not up-to-date with Xcode 8, Swift 2.3, and iOS 10. I've
 also taken a few liberties when conforming to future standards of Swift 3.
 
 
